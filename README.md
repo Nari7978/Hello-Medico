@@ -1,2 +1,0 @@
-# Hello-Medico
-About Chatbot
